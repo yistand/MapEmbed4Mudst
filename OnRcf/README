@@ -1,0 +1,4 @@
+2016.01.14	Li Yi
+Not all event information is available in embedding data.
+By matching the embedding data with runid (maybe eventid later), MuDst root file (may be the exact event) is located for each embedding root file.
+Read the matched event information from the MuDst file for each embedding file.
