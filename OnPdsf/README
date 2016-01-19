@@ -1,2 +1,4 @@
+run it by './run.sh'
+
 read in embedding root files from the file list
 write out the event id to txt file for each embedding root file
